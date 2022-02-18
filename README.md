@@ -1,9 +1,13 @@
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D22AQE4fCJI-cfguw/feedshare-shrink_800/0/1645171807993?e=1648080000&v=beta&t=2I2Va0qlgpwSkWXaSMb1vphi5CllKasZ0eExV07cuRQ" alt="Hello! I'm Manas S. Roy" width="960" height="540"></p>
 <h3 align="center">I am a python progremmer, django developer.</h3>
+<hr>
 <h5 align="justify">After completing my engineering, with a lot of passion on technology I started my journey as a fullstack web developer. I've developed good skills on web development related technologies and also I'm sharping these skills more and more along with learning more technologies.</h5>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manassaharoy&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 
-- 🔭 I’m currently working on **a blog site, company website, portfolio site**
+- 🔭 I’m currently working on **AudioreviewBD blogsite, BizRR company website, My portfolio site**
 
 - 🌱 I’m currently learning **advance JavaScript, React native and react redux**
 
@@ -13,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manassaharoy" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manassaharoy" height="30" width="40" /></a>
-<a href="https://instagram.com/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manassaharoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manassaharoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manassaharoy" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17818994/manas-s-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manassaharoy" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manassaharoy" height="30" width="40" /></a>
 <a href="https://www.behance.net/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="manassaharoy" height="30" width="40" /></a>
 </p>
 
@@ -61,9 +65,11 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassaharoy&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="manassaharoy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassaharoy&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="manassaharoy" height="200"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=gotham&show_icons=true" alt="manassaharoy" /></p>
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&" alt="manassaharoy" /></p>
--->
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=codeSTACKr&show_icons=true" height="200" alt="manassaharoy" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&&theme=gotham" height="180" alt="manassaharoy" /></p>
+
