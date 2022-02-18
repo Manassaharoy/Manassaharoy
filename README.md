@@ -65,11 +65,9 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassaharoy&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="manassaharoy" height="200"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manassaharoy&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="manassaharoy" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=codeSTACKr&show_icons=true"  alt="manassaharoy" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=codeSTACKr&show_icons=true" height="200" alt="manassaharoy" /></p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&&theme=gotham" height="200" alt="manassaharoy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&&theme=gotham"  alt="manassaharoy" /></p>
 
