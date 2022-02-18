@@ -70,6 +70,6 @@
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=codeSTACKr&show_icons=true" height="200" alt="manassaharoy" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&&theme=gotham" height="180" alt="manassaharoy" /></p>
+<br>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manassaharoy&&theme=gotham" height="200" alt="manassaharoy" /></p>
 
