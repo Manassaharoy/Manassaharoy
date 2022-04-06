@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D22AQE4fCJI-cfguw/feedshare-shrink_800/0/1645171807993?e=1648080000&v=beta&t=2I2Va0qlgpwSkWXaSMb1vphi5CllKasZ0eExV07cuRQ" alt="Hello! I'm Manas S. Roy" width="960" height="540"></p>
+<p align="center"><img src="https://github.com/Manassaharoy/Manassaharoy/blob/main/Hello!%20It's%20Manas%20Roy.gif" alt="Hello! I'm Manas S. Roy" width="960" height="540"></p>
 <h3 align="center">I am a python progremmer, django developer.</h3>
 <hr>
 <h5 align="justify">After completing my engineering, with a lot of passion on technology I started my journey as a fullstack web developer. I've developed good skills on web development related technologies and also I'm sharping these skills more and more along with learning more technologies.</h5>
@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manassaharoy&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 
-- 🔭 I’m currently working on **AudioreviewBD blogsite, BizRR company website, My portfolio site**
+- 🔭 I’m currently working on **AudioreviewBD blogsite, An agency company website, My portfolio site**
 
-- 🌱 I’m currently learning **advance JavaScript, React native and react redux**
+- 🌱 I’m currently learning **API**
 
 - 💬 Ask me about **Django, Python**
 
@@ -18,20 +18,28 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manassaharoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manassaharoy" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manassaharoy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="manassaharoy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17818994/manas-s-roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manassaharoy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manassaharoy" height="30" width="40" /></a>
 <a href="https://www.behance.net/manassaharoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="manassaharoy" height="30" width="40" /></a>
+
+
+  
 </p>
 
 <h3 align="left">Frontend:</h3>
 
 <p align="left"> 
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/html-5--v1.png" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/jquery.png" alt="jQuery" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="React js" width="40" height="40"/> </a> 
+   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/redux.png" alt="Redux" width="40" height="40"/> </a> 
+  
+  
 </p>
 
 
@@ -39,15 +47,20 @@
 
 <p align="left"> 
   
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/344/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="40" height="40"/> </a> 
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/api-settings.png" alt="REST API" width="40" height="40"/> </a> 
 
 </p>
 
 <h3 align="left">Database:</h3>
 <p align="left"> 
   
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" width="40" height="40"/> </a>
+  
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> </a> 
+    
+
   
 </p>
 
