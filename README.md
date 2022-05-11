@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manassaharoy&label=Profile%20views&color=0e75b6&style=flat" alt="manassaharoy" /> </p>
 
-- 🔭 I’m currently working on **AudioreviewBD blogsite, An agency company website, My portfolio site**
+- 🔭 I’m currently working on **random projects**
 
-- 🌱 I’m currently learning **API**
+- 🌱 I’m currently learning **Node js, express js**
 
 - 💬 Ask me about **Django, Python**
 
@@ -51,6 +51,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/python--v1.png" alt="python" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/api-settings.png" alt="REST API" width="40" height="40"/> </a> 
 
+</p>
+
+<h3 align="left">Cross platform:</h3>
+
+<p align="left"> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1024/1*xDi2csEAWxu95IEkaNdFUQ.png" alt="React Native" width="80" height="40"/> </a> 
 </p>
 
 <h3 align="left">Database:</h3>
