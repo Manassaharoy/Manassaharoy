@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Manassaharoy/Manassaharoy/blob/main/Hello!%20It's%20Manas%20Roy.gif" alt="Hello! I'm Manas S. Roy" width="960" height="540"></p>
-<h3 align="center">I am a python progremmer, django developer.</h3>
+<h3 align="center">I am a full stack web developer.</h3>
 <hr>
-<h5 align="justify">After completing my engineering, with a lot of passion on technology I started my journey as a fullstack web developer. I've developed good skills on web development related technologies and also I'm sharping these skills more and more along with learning more technologies.</h5>
+<h5 align="justify">After completing my engineering, with a lot of passion on technology I started my journey as a fullstack web developer. I've developed good skills on web development related technologies and also I'm sharping these skills more and more along with learning more technologies. I mostly work with MERN technology. I like to work with python depending on project requirements.</h5>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif">
 
@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **random projects**
 
-- 🌱 I’m currently learning **Node js, express js**
+- 🌱 I’m currently learning **React native, GCP**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, MERN stack, API**
 
 - ⚡ Fun fact **I feel very uncomfortable until I fix the bugs on my code**
 
@@ -38,6 +38,7 @@
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/344/jquery.png" alt="jQuery" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/office/344/react.png" alt="React js" width="40" height="40"/> </a> 
    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/redux.png" alt="Redux" width="40" height="40"/> </a> 
+  <a href="[https://redux.js.org/](https://mui.com/)" target="_blank" rel="noreferrer"> <img src="https://v4.material-ui.com/static/logo.png" alt="Material UI" width="40" height="40"/> </a> 
   
   
 </p>
@@ -61,10 +62,12 @@
 
 <h3 align="left">Database:</h3>
 <p align="left"> 
-  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vRc1uqOLholXlImjJJlVSiQHPPs9Vhu_4hC2bTWhow&s" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="supabase" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/mysql-logo.png" alt="mysql" width="40" height="40"/> </a>
   
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/postgreesql.png" alt="PostgreSQL" width="40" height="40"/> </a>
+  
     
 
   
