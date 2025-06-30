@@ -91,6 +91,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manassaharoy&theme=codeSTACKr&show_icons=true"  alt="manassaharoy" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=manassaharoy)](https://streak-stats.demolab.com?user=manassaharoy)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manassaharoy&theme=gotham)](https://streak-stats.demolab.com?user=manassaharoy&theme=gotham)
 
 
