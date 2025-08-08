@@ -1,4 +1,4 @@
-<h2 align="center">Fullstack Engineer | Cloud & DevOps Enthusiast</h2>
+<h2 align="center">Full-stack Engineer | Cloud & DevOps Enthusiast</h2>
 <p align="center">
   <b>3+ years of building scalable web apps, APIs & infrastructure</b>
 </p>
