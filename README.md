@@ -1,6 +1,6 @@
 <h2 align="center">Full-stack Engineer | Cloud & DevOps Enthusiast</h2>
 <p align="center">
-  <b>3+ years of building scalable web apps, APIs & infrastructure</b>
+  <b>4+ years of building scalable web apps, APIs & infrastructure</b>
 </p>
 
 <h3 align="center">About Me</h3>
@@ -115,8 +115,9 @@ My experience spans <span style="text:bold">NestJS, Golang, Python, React, Next.
 
 <h3 align="center">📈 GitHub Stats</h3>
 
+<p align="center" style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=manassaharoy&theme=gotham" alt="GitHub Streak" /></a>
-
+</p>
 
 
 
@@ -124,6 +125,6 @@ My experience spans <span style="text:bold">NestJS, Golang, Python, React, Next.
 <h3 align="center">🔎 Find Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/manassaharoy/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="LinkedIn"/></a>
-  <a href="https://stackoverflow.com/users/17818994/manas-s-roy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="16" height="16" alt="Stack Overflow"/></a>
+<!--   <a href="https://stackoverflow.com/users/17818994/manas-s-roy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="16" height="16" alt="Stack Overflow"/></a> -->
   <a href="https://leetcode.com/u/Manassaharoy/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="16" height="16" alt="Leetcode"/></a>
 </p>
